@@ -14,4 +14,4 @@ i am a developer, most of my projects are private. i am currently working on a d
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★  
 
 **i barely use this shit**  
-**discord: cyanidefulpain**
+**discord: cyanidewtf**
